@@ -1,0 +1,14 @@
+body{
+    background-color:antiquewhite;
+}
+body h1{
+    text-align: center;
+    color: brown;
+}
+.variables{
+    border: 2px solid brown;
+    width: 30%;
+    margin-left: 10px;
+    padding: 10px;
+    color:brown;
+}
